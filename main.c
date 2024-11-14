@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-float inv_sqrt(float number) {
+float InvSqrt(float number) {
     long i;
     float x2, y;
     const float threehalfs = 1.5F;
@@ -20,5 +20,5 @@ int main() {
     printf("hoge\n");
     int a = 3;
     printf("a is %d\n", a);
-    printf("inv_root a is %f\n", inv_sqrt(a));
+    printf("inv_root a is %f\n", InvSqrt(a));
 }
