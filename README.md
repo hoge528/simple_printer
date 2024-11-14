@@ -22,3 +22,5 @@ F: まがい物であることを話す必要がある肉ってなーんだ？
 cited from [くBC032](https://shitforces.herokuapp.com/contest/kbc032)
 
 眠いです。
+
+昨日から乾燥で喉が痛くて明日の発表が....
