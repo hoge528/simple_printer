@@ -8,9 +8,12 @@ A: シールの季節ってなーんだ？
 B: 引いて戦うマグロってなーんだ？
 
 C: おじさんの視点ってなーんだ？
-ハートレイ＆ジザーマン
+
+- [ハートレイ＆ジザーマン](https://www.amazon.co.jp/Multiple-View-Geometry-Computer-Vision/dp/0521540518)
 
 D: 棒は輪であると主張するスポーツってなーんだ？
+
+- [RING](https://www.shueisha.co.jp/books/reader/main.php?cid=08859455859455315501)
 
 E: 核を放置しようとする飲み物ってなーんだ？
 
